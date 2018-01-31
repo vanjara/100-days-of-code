@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: Jan 31, 2018, Wednesday
+**Today's Progress**: Setup the psql DB for the Udacity FSND Log Analytics project. Did some test queries to get/review data, created a view and solved the first part of the project using the DB query.
+
+**Thoughts**: I had to recollect/review/do google search for some of the syntax and also had to review the Udacity forum for some help with the syntax and example queries.
+
+
+### Original Content in the repository ###
+### Day 1: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
