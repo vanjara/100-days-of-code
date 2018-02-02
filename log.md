@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 2: Feb 1, 2018, Thursday
+**Today's Progress**: Solved parts 2 and 3 of the Udacity FSND Log Analytics project. Also reviewed 3 sections of Lesson 3 - Building Layouts Part 2 of the Android basics course.
+
+**Thoughts**: Created multiple views to help get the answers and had to do some Google searches for formatting and timestamp operations.
+
 ### Day 1: Jan 31, 2018, Wednesday
 **Today's Progress**: Setup the psql DB for the Udacity FSND Log Analytics project. Did some test queries to get/review data, created a view and solved the first part of the project using the DB query.
 
