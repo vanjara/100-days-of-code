@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 2: Feb 2, 2018, Friday
+### Day 3: Feb 2, 2018, Friday
 **Today's Progress**: Created Python script to connect to the DB and print the results for the FSND project. Ready for submission tomorrow.
 
 **Thoughts**: How do I make the queries faster? It takes between 20 - 30 seconds for the first two queries.
