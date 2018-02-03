@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 2: Feb 2, 2018, Friday
+**Today's Progress**: Created Python script to connect to the DB and print the results for the FSND project. Ready for submission tomorrow.
+
+**Thoughts**: How do I make the queries faster? It takes between 20 - 30 seconds for the first two queries.
+
 ### Day 2: Feb 1, 2018, Thursday
 **Today's Progress**: Solved parts 2 and 3 of the Udacity FSND Log Analytics project. Also reviewed 3 sections of Lesson 3 - Building Layouts Part 2 of the Android basics course.
 
