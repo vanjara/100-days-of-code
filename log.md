@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 6: Feb 5, 2018, Monday
+**Today's Progress**: Additional work with SQLAlchemy and doing the Udacity exercises. Started the Making a web server lesson and followed the code examples.
+
+**Thoughts**: It will be interesting to associate GET/POST with CRUD
+
+### Day 4: Feb 4, 2018, Sunday
+**Today's Progress**: Learning about CRUD, ORM, SQLAlchemy and doing some practice examples to learn more about SQLAlchemy.
+
+**Thoughts**: DB operations should be interesting. The lessons seems doable but wondering how the catalog item project would be.
+
+### Day 4: Feb 3, 2018, Saturday
+**Today's Progress**: **Completed the Log Analytics Project** (cleaned up the code, added some timer functionality and created the README.md). Project submitted and successfully reviewed. Also made some of the suggested changes.
+
+**Thoughts**: Completing the project feels great. It was not as difficult as I thought it would be.
+
 ### Day 3: Feb 2, 2018, Friday
 **Today's Progress**: Created Python script to connect to the DB and print the results for the FSND project. Ready for submission tomorrow.
 
