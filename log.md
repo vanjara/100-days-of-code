@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 8: Feb 7, 2018, Wednesday
+**Today's Progress**: Early start today - Back to FSND and my web server - got POST working albeit after some confusion about double quotes and triple quotes - didn't realize '''...''' was not for comments but a multiline string!! Learning something new everyday!!
+
+**Thoughts**: Quotes were tricky - need to figure out how to use "" within '''...''' especially for actions like Submit!!
+
 ### Day 7: Feb 6, 2018, Tuesday
 **Today's Progress**: Switching from full stack to Android today for a change - learning about LinearLayouts, orientation, layout_height, layout_width and layout_weights.
 
