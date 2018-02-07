@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 7: Feb 6, 2018, Tuesday
+**Today's Progress**: Switching from full stack to Android today for a change - learning about LinearLayouts, orientation, layout_height, layout_width and layout_weights.
+
+**Thoughts**: Was tricky today to continue the coding. Had to stretch and do it around 11 pm and so decided to do Android instead of web server.
+
 ### Day 6: Feb 5, 2018, Monday
 **Today's Progress**: Additional work with SQLAlchemy and doing the Udacity exercises. Started the Making a web server lesson and followed the code examples.
 
