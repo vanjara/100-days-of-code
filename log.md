@@ -1,9 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: Feb 9, 2018, Friday
+**Today's Progress**: Tried some game coding exercises at codingame.com - the medium level is hard.
+
+**Thoughts**: Today was a tough day to code - was irritated, frustrated and found it difficult to focus on coding but pushed through for over an hour, a simple example worked but a tougher one did not. 10% of the challenge complete, 90% more to go :)
+
+
 ### Day 9: Feb 8, 2018, Thursday
 **Today's Progress**: Completed the Udacity FSND sample exercises for web server with CRUD, on to Flask next.
 
-**Thoughts**: I kine of new the flow for update, edit and delete but had to look up some of the implementation details. Spending more time with Get/Post helped (nevertheless spent a long time then :( )
+**Thoughts**: I kind of new the flow for update, edit and delete but had to look up some of the implementation details. Spending more time with Get/Post helped (nevertheless spent a long time then :( )
 
 ### Day 8: Feb 7, 2018, Wednesday
 **Today's Progress**: Early start today - Back to FSND and my web server - got POST working albeit after some confusion about double quotes and triple quotes - didn't realize '''...''' was not for comments but a multiline string!! Learning something new everyday!!
