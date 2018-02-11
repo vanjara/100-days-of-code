@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: Feb 10, 2018, Saturday
+**Today's Progress**: Completed the Flask lesson for the Udacity FSND - lot of fun!! Also completed the iterative development lesson.
+
+**Thoughts**: Having some background information on Flask was good but still got to learn quite a few new things!!
+
+
 ### Day 10: Feb 9, 2018, Friday
-**Today's Progress**: Tried some game coding exercises at codingame.com - the medium level is hard.
+**Today's Progress**: Tried some game coding exercises at codingame.com - the medium level is hard (https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1).
 
 **Thoughts**: Today was a tough day to code - was irritated, frustrated and found it difficult to focus on coding but pushed through for over an hour, a simple example worked but a tougher one did not. 10% of the challenge complete, 90% more to go :)
 
