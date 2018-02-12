@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 12: Feb 11, 2018, Sunday
+**Today's Progress**: Complete the lesson on Authentical and Authorization and working now with Google+ Auth. Also trying to learn about how to create progress bars using python.
+
+**Thoughts**: Authentication and Authorization are interesting!!
+
 ### Day 11: Feb 10, 2018, Saturday
 **Today's Progress**: Completed the Flask lesson for the Udacity FSND - lot of fun!! Also completed the iterative development lesson.
 
