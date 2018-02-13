@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: Feb 12, 2018, Monday
+**Today's Progress**: Trying to get Google+ auth to work and running into errors - struggling!
+
+**Thoughts**: Google+ auth is not easy to understand :(
+
 ### Day 12: Feb 11, 2018, Sunday
 **Today's Progress**: Completed the lesson on Authentication and Authorization and working now with Google+ Auth. Also trying to learn about how to create progress bars using python.
 
