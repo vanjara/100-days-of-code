@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 14: Feb 13, 2018, Tuesday
+**Today's Progress**: Got my Google+ auth working!! and learned how to add implement permissions to different web pages.
+
+**Thoughts**: Coding late night is not easy!!
+
 ### Day 13: Feb 12, 2018, Monday
 **Today's Progress**: Trying to get Google+ auth to work and running into errors - struggling!
 
