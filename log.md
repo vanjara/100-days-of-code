@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: Feb 14, 2018, Wednesday
+**Today's Progress**: Trying to get FB auth working for my Udacity sample web app...
+
+**Thoughts**: Getting the different auth systems to work is not easy
+
 ### Day 14: Feb 13, 2018, Tuesday
 **Today's Progress**: Got my Google+ auth working!! and learned how to add implement permissions to different web pages.
 
