@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: Feb 16, 2018, Friday
+**Today's Progress**: Continuing APIs, two more lessons to go before starting the project.
+
+**Thoughts**: Consistency is difficult, had to push to do a little today since was not feeling well in the evening.
+
+### Day 15: Feb 16, 2018, Thursday
+**Today's Progress**: On to APIs today. Finished last episode of Season 1 of Basecs podcast adn Episode 1 of Season 2.
+
+**Thoughts**: APIs are fun.
+
 ### Day 15: Feb 14, 2018, Wednesday
 **Today's Progress**: Trying to get FB auth working for my Udacity sample web app...
 
