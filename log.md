@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 18: Feb 17, 2018, Friday
+**Today's Progress**: Finished Android Lesson 3 - Layouts, did Relative Layouts, padding and margin.
+
+**Thoughts**: Today was difficult due to cold and fever and got to this late in the evening.
+
 ### Day 17: Feb 16, 2018, Friday
 **Today's Progress**: Continuing APIs, two more lessons to go before starting the project.
 
