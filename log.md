@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 18: Feb 17, 2018, Friday
+### Day 19: Feb 18, 2018, Sunday
+**Today's Progress**: Back to APIs, learning about security, tokenization, rate limits and documentation. Completed the lessons and onto the project from tomorrow.
+
+**Thoughts**: Need to do some exercises still
+
+### Day 18: Feb 17, 2018, Saturday
 **Today's Progress**: Finished Android Lesson 3 - Layouts, did Relative Layouts, padding and margin.
 
 **Thoughts**: Today was difficult due to cold and fever and got to this late in the evening.
