@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 21: Feb 20, 2018, Tuesday
+**Today's Progress**: Completed my first sample exercise with Android studio - onto creating my own design. 3 Weeks Done!!
+
+**Thoughts**: Early start today to wrap up my Android lesson. Need to work on my project design.
+
+### Day 20: Feb 19, 2018, Monday
+**Today's Progress**: Started working on the schema design for my FSND project and in parallel working on setting up Android Studio and getting Hello World working with it. 20% challenge complete!!!
+
+**Thoughts**: Late start to my coding hour - continued beyond midnight.
+
 ### Day 19: Feb 18, 2018, Sunday
 **Today's Progress**: Back to APIs, learning about security, tokenization, rate limits and documentation. Completed the lessons and onto the project from tomorrow.
 
