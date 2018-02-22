@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: Feb 21, 2018, Wednesday
+**Today's Progress**: Worked on the first Android project using LinearLayout.
+
+**Thoughts**: Need to work on the birthday card tomorrow.
+
 ### Day 21: Feb 20, 2018, Tuesday
 **Today's Progress**: Completed my first sample exercise with Android studio - onto creating my own design. 3 Weeks Done!!
 
