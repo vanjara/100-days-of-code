@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 23: Feb 22, 2018, Thursday
+**Today's Progress**: Started working on the Udacity FSND catalog project - got an initial DB setup and populated with some data and able to display some of it through a Flask app.
+
+**Thoughts**: Had some idea about the DB design based on the Restaurant app, used that as a starting point, got the categories displayed via Flask, need to get the items within categories displayed.
+
 ### Day 22: Feb 21, 2018, Wednesday
 **Today's Progress**: Worked on the first Android project using LinearLayout.
 
