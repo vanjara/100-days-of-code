@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 28: Feb 27, 2018, Tuesday
+**Today's Progress**: Further progress, worked on joins to display the data that I wanted - struggled a bit to make it work and show the expected results.
+
+**Thoughts**: Last 2-3 days have been a struggle and have had to push through.
+
+### Day 27: Feb 26, 2018, Monday
+**Today's Progress**: Continuing on my project and got some time based queries working today. 
+
+**Thoughts**: Will need to add more data and see how it works.
+
+### Day 26: Feb 25, 2018, Sunday
+**Today's Progress**: Back to my Udacity FSND project, started again from the beginning and made some progress - have the categories and items displaying now, though without any styling.
+
+**Thoughts**: The project seems doable and looks like have to repeat what was done for the restaurant project, but need to figure out certain pieces
+
+### Day 25: Feb 24, 2018, Saturday
+**Today's Progress**: non coding day, spent learning - finished the latest #basecs season 2 episode about queue examples and then learning about system design. 
+
+**Thoughts**: Mini milestone today - 1/4th challenge done, 3/4th remaining!!
+
+### Day 24: Feb 23, 2018, Friday
+**Today's Progress**: struggle today to code and make progress in my Udacity FSND project - things not working as expected. Will have to continue over the weekend.
+
+**Thoughts**: Did I forget and should I review the lessons again?
+
 ### Day 23: Feb 22, 2018, Thursday
 **Today's Progress**: Started working on the Udacity FSND catalog project - got an initial DB setup and populated with some data and able to display some of it through a Flask app.
 
