@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 29: Feb 28, 2018, Wednesday
+**Today's Progress**: Adding css to the html templates to be used with the FSND project..
+
+**Thoughts**: Need to refresh bootstrap knowledge about sidebars
+
 ### Day 28: Feb 27, 2018, Tuesday
 **Today's Progress**: Further progress, worked on joins to display the data that I wanted - struggled a bit to make it work and show the expected results.
 
