@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30: March 1, 2018, Thursday
+**Today's Progress**: , continuing the FSND project, added a flask route for showing catalog item details and experimented with CSS some more.
+
+**Thoughts**: Good to contribute code changes at work. Need to think about testing! Can't believe its been a month!!
+
 ### Day 29: Feb 28, 2018, Wednesday
 **Today's Progress**: Adding css to the html templates to be used with the FSND project..
 
