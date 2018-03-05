@@ -1,7 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 33: March 4, 2018, Sunday
+**Today's Progress**: Continuing the Udacity #growwithgoogle Android scholarship work - Lesson 6, sections 6 to 13 done.
+
+**Thoughts**: Created a simple plan for FSND project about items that need to be done to complete the project.
+
+### Day 32: March 3, 2018, Saturday
+**Today's Progress**: Back to Android - learning how to make an app interactive - adding buttons and actions.
+
+**Thoughts**: Didn't feel like writing the FSND code and so switched to Android.
+
+
+### Day 31: March 2, 2018, Friday
+**Today's Progress**: Another flask route added to my project and learning about tree/non linear data structures with #basecs podcast - Season 2, Episode 3
+
+**Thoughts**: Need to visualize the stuff about trees, the basecs blog has pictures.
+
 ### Day 30: March 1, 2018, Thursday
-**Today's Progress**: , continuing the FSND project, added a flask route for showing catalog item details and experimented with CSS some more.
+**Today's Progress**: Continuing the FSND project, added a flask route for showing catalog item details and experimented with CSS some more.
 
 **Thoughts**: Good to contribute code changes at work. Need to think about testing! Can't believe its been a month!!
 
