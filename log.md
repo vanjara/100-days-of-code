@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+
+### Day 34: March 5, 2018, Monday
+**Today's Progress**: Completed Android Lesson 6 #growwithgoogle Android scholarship work.
+
+**Thoughts**: Difficult day today to do my coding. But finished now at 11 PM.
 ### Day 33: March 4, 2018, Sunday
 **Today's Progress**: Continuing the Udacity #growwithgoogle Android scholarship work - Lesson 6, sections 6 to 13 done.
 
