@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 37: March 8, 2018, Monday Completed 
+**Today's Progress**: Udacity FSND project, successful integrating Google and FB authentication!!, viewing some System Design youtube videos and spent some time reading up on Python Meta Functions  - still don't understand them :(
+
+**Thoughts**: Also read about redis and unit testing and how to write unit tests for Python code (need to learn and understand more)
+
+### Day 36: March 7, 2018, Monday Completed 
+**Today's Progress**:Udacity FSND project, working on adding users and Google and FB authentication. Also listened to Ep. 4 of #Basecs season 2.
+
+**Thoughts**: Used the sample exercise code for authentication but need to make it work.
+
 ### Day 35: March 6, 2018, Monday Completed 
 **Today's Progress**: Udacity Android Lesson 7 #growwithgoogle Android scholarship work.
 
