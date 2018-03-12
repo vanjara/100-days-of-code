@@ -1,16 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 37: March 8, 2018, Monday Completed 
+### Day 37: March 11, 2018, Sunday 
+**Today's Progress**: Udacity FSND project continued - got JSON serialization working and able to print all the catalog details with the /catalog.json Flask route. 
+
+**Thoughts**: Lots more to do - refactor code and add new/edit/delete routes and functionality, css for the front end, etc.
+
+### Day 36: March 10, 2018, Saturday
+**Today's Progress**: Continued working on my Udacity FSND project - cleaning up the CSS and added more functionality.
+
+**Thoughts**: Did searches in the forum and some code reviews for CSS functionality - finally got bootstrap working on home page
+
+### Day 38: March 9, 2018, Friday 
+**Today's Progress**: Tried some Hackerrank problems and not able to solve any :(
+
+**Thoughts**: Didn't feel like working on Udacity work and was late in the day and it showed!
+
+### Day 37: March 8, 2018, Thursday
 **Today's Progress**: Udacity FSND project, successful integrating Google and FB authentication!!, viewing some System Design youtube videos and spent some time reading up on Python Meta Functions  - still don't understand them :(
 
 **Thoughts**: Also read about redis and unit testing and how to write unit tests for Python code (need to learn and understand more)
 
-### Day 36: March 7, 2018, Monday Completed 
+### Day 36: March 7, 2018, Wednesday 
 **Today's Progress**:Udacity FSND project, working on adding users and Google and FB authentication. Also listened to Ep. 4 of #Basecs season 2.
 
 **Thoughts**: Used the sample exercise code for authentication but need to make it work.
 
-### Day 35: March 6, 2018, Monday Completed 
+### Day 35: March 6, 2018, Tuesday 
 **Today's Progress**: Udacity Android Lesson 7 #growwithgoogle Android scholarship work.
 
 **Thoughts**: Not able to get to FSND project.
