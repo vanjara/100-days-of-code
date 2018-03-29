@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 37: March 11, 2018, Sunday 
+### Day 40: March 11, 2018, Sunday 
 **Today's Progress**: Udacity FSND project continued - got JSON serialization working and able to print all the catalog details with the /catalog.json Flask route. 
 
 **Thoughts**: Lots more to do - refactor code and add new/edit/delete routes and functionality, css for the front end, etc.
 
-### Day 36: March 10, 2018, Saturday
+### Day 39: March 10, 2018, Saturday
 **Today's Progress**: Continued working on my Udacity FSND project - cleaning up the CSS and added more functionality.
 
 **Thoughts**: Did searches in the forum and some code reviews for CSS functionality - finally got bootstrap working on home page
@@ -121,7 +121,7 @@
 
 **Thoughts**: Consistency is difficult, had to push to do a little today since was not feeling well in the evening.
 
-### Day 15: Feb 16, 2018, Thursday
+### Day 16: Feb 16, 2018, Thursday
 **Today's Progress**: On to APIs today. Finished last episode of Season 1 of Basecs podcast adn Episode 1 of Season 2.
 
 **Thoughts**: APIs are fun.
